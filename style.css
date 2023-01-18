@@ -1,0 +1,33 @@
+hr {
+    background-color: #c1e4e9;
+    border-style: none;
+    height: 2px;
+    width: 30%;
+    border-top: dotted 8px white;
+    border-bottom: dotted 0px white;
+
+}
+
+h1 {
+    color: rgb(229, 255, 0);
+}
+
+h3 {
+    color: #d346f7;
+}
+
+
+body {
+    background-color: #c1e4e9;
+
+}
+
+.angela {
+    border-radius: 50%;
+}
+p:hover { font-weight: bold;}
+.esmi:hover { font-size:35px;
+    font-size-adjust: 10px;}
+    .taswirti{ border-radius: 100%; width: 250px;opacity: 100%;}
+    .taswirti:hover {opacity: 90%;
+  }
