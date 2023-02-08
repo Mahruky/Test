@@ -22,10 +22,11 @@ body {
     text-align: center;
 margin-left: 33%; 
 margin-right: 33%;
+    font-weight: 500;
 }
 .tables {
 margin: 5% 20%;
-font-weight: 500;}
+}
 ol {text-align: center;}
 ul{text-align: center;}
 .angela {
