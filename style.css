@@ -23,7 +23,8 @@ body {
 margin-left: 35%;
 margin-right: 30%;
 }
-table {text-align: center;}
+table {text-align: center;
+margin: 0;}
 ol {text-align: center;}
 ul{text-align: center;}
 .angela {
