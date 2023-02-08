@@ -23,7 +23,9 @@ body {
 margin-left: 35%;
 margin-right: 30%;
 }
-
+table {text-align: center;}
+ol {text-align: center;}
+ul{text-align: center;}
 .angela {
     border-radius: 50%;
 }
